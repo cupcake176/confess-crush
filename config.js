@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'wanna date? 😘😘',
     messDesc: 'i mean right now :>',
     btnAccept: 'forget about it just get married <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messLink: 'https://www.instagram.com/_dinhlog/
 }
